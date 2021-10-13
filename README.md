@@ -1,6 +1,6 @@
 ## Flask-potfolio-app
 
-This project was created based on a course from https://testdriven.io/ which aimed to teach the fundamentals of Flask by building a full-featured web application for managing a stock portfolio.
+This web application is able to manage a stock portfolio for different users. The backend was built on Flask.
 
 #### Main concepts and technologies used:
 - Flask, Flask blueprints, application factory function
